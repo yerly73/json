@@ -2,38 +2,38 @@
   "prestamos":[
   {
     "id": 1,
-    "libro": "El sueño eterno",
-    "usuario": "Raymond Chandler",
-    "fechaPrestamo": "2014-06-22",
-    "fechaDevolucion": "2015-05-10"
+    "libro": "heartstopper",
+    "usuario": "Aysa Moreno",
+    "fechaPrestamo": "2019-06-20",
+    "fechaDevolucion": "2020-05-11"
   },
   {
     "id": 2,
-    "libro": "Huye rápido, vete lejos",
-    "usuario": "Fred Vargas",
-    "fechaPrestamo": "2014-11-22",
-    "fechaDevolucion": "2015-07-22"
+    "libro": "After",
+    "usuario": "Elena Carmen",
+    "fechaPrestamo": "2019-03-15",
+    "fechaDevolucion": "2020-04-13"
   },
   {
     "id": 3,
-    "libro": "El poder del perro",
-    "usuario": "Don Winslow",
+    "libro": "Culpa mia",
+    "usuario": "Ccallocsa Sixto",
     "fechaPrestamo": "2014-04-22",
     "fechaDevolucion": "2015-05-22"
   },
   {
     "id": 4,
-    "libro": "La suerte del enano",
-    "usuario": "César Pérez Gellida",
-    "fechaPrestamo": "2019-02-20",
-    "finDevolucion": "2020-05-22"
+    "libro": "Un rastro sin Aroma",
+    "usuario": "Ines Cumapa",
+    "fechaPrestamo": "2022-02-20",
+    "finDevolucion": "2023-05-22"
   },
     {
     "id": 5,
-    "libro": "Orgullo y prejuicio",
-    "usuario": "Fred Vargas",
-    "fechaPrestamo": "2014-01-05",
-    "fechaDevolucion": "2014-07-20"
+    "libro": "Alguien para Mí",
+    "usuario": "Sandra Martin",
+    "fechaPrestamo": "2022-02-20",
+    "fechaDevolucion": "2023-05-22"
   }
 ]
 }
