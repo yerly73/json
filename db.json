@@ -1,5 +1,5 @@
 {
-"prestamo":[
+"prestamos":[
 {"id":1, "libro":"Blanca Nieves", "usuario":"Maria", "fechaPrestamo":"2020-11-22","fechaDevolucion":"2021-06-15"},
 {"id":2, "libro":"Gallinaso sin plumas", "usuario":"Pedro", "fechaPrestamo":"2021-11-22","fechaDevolucion":"2021-12-15"},
 {"id":3, "libro":"Ojo", "usuario":"Ximena", "fechaPrestamo":"2022-11-22","fechaDevolucion":"2023-12-17"}
